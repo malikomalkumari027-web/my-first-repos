@@ -1,3 +1,4 @@
 name:komal kumari
 couse:introduction to computer science
 one thing i learned about GitHub: i learned how to use commits to track and manage changes in my project.
+i learn how to create and clone repositories, make commit to track changes,and push update to remote respositories
