@@ -3,8 +3,8 @@
 <title>
 web</title><body>
 <h1>hello GitHub</h1>
-<h1>my name is komal kumari</h1>
+<h1>my name is komal kumari bsc ds</h1>
 </body>
 </head>
-
 </html>
+
